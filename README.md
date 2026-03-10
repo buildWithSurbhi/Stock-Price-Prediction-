@@ -13,4 +13,4 @@ Evaluation Metrics
 MAE, RMSE, R² Score, and Directional Accuracy. 
 
 Key Highlight
-Interactive dashboard with stock selection, forecast option, and Buy/Hold/Sell signal.
+Interactive dashboard with stock selection, forecast option, and Buy/Hold/Sell signal
