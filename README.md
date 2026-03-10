@@ -5,7 +5,7 @@ Predict short-term stock prices using Machine Learning models.
 
 Algorithms Used
 Linear Regression, Moving Average, and Polynomial Regression.
-
+ 
 Features Used
 Open Price, Volume, MA-7, RSI, and MACD indicators.
 
